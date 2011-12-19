@@ -1,0 +1,7 @@
+Testcodes for Concrete5 add-on, UserProfile.
+
+admin
+When a user is added, the page "username" is added.
+
+user
+When a user logs into Concrete5 site, he/she will be redirect to the page "username".
